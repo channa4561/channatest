@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Channa
+          Learn React Channa First App
         </a>
       </header>
     </div>
